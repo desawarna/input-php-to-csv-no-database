@@ -36,6 +36,7 @@ fclose($file);
 </br>
 </br>
 <a href="index.php"><img src=home.png></img><a>
+<a href="data.csv"><img src=csv.png></img><a>
 </br>
 </br>
 <img src=footer.png ></img>
